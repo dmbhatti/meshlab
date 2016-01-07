@@ -1,0 +1,1400 @@
+cd common/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/common' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/common' wordt verlaten
+cd meshlab/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlab' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlab' wordt verlaten
+cd meshlabserver/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabserver' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabserver' wordt verlaten
+cd meshlabplugins/io_base/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_base' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_base' wordt verlaten
+cd meshlabplugins/io_3ds/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_3ds' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_3ds' wordt verlaten
+cd meshlabplugins/io_bre/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_bre' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_bre' wordt verlaten
+cd meshlabplugins/io_collada/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_collada' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_collada' wordt verlaten
+cd meshlabplugins/io_ctm/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_ctm' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_ctm' wordt verlaten
+cd meshlabplugins/io_json/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_json' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_json' wordt verlaten
+cd meshlabplugins/io_u3d/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_u3d' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_u3d' wordt verlaten
+cd meshlabplugins/io_tri/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_tri' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_tri' wordt verlaten
+cd meshlabplugins/io_x3d/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_x3d' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_x3d' wordt verlaten
+cd meshlabplugins/io_gts/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_gts' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_gts' wordt verlaten
+cd meshlabplugins/io_expe/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_expe' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_expe' wordt verlaten
+cd meshlabplugins/io_pdb/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_pdb' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_pdb' wordt verlaten
+cd meshlabplugins/filter_aging/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_aging' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_aging' wordt verlaten
+cd meshlabplugins/filter_ao/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ao' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ao' wordt verlaten
+cd meshlabplugins/filter_autoalign/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_autoalign' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_autoalign' wordt verlaten
+cd meshlabplugins/filter_camera/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_camera' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_camera' wordt verlaten
+cd meshlabplugins/filter_bnpts/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_bnpts' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_bnpts' wordt verlaten
+cd meshlabplugins/filter_clean/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_clean' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_clean' wordt verlaten
+cd meshlabplugins/filter_colorize/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorize' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorize' wordt verlaten
+cd meshlabplugins/filter_colorproc/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorproc' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorproc' wordt verlaten
+cd meshlabplugins/filter_color_projection/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_color_projection' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_color_projection' wordt verlaten
+cd meshlabplugins/filter_create/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_create' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_create' wordt verlaten
+cd meshlabplugins/filter_csg/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_csg' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_csg' wordt verlaten
+cd meshlabplugins/filter_dirt/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_dirt' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_dirt' wordt verlaten
+cd meshlabplugins/filter_fractal/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_fractal' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_fractal' wordt verlaten
+cd meshlabplugins/filter_func/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_func' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_func' wordt verlaten
+cd meshlabplugins/filter_img_patch_param/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_img_patch_param' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_img_patch_param' wordt verlaten
+cd meshlabplugins/filter_isoparametrization/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_isoparametrization' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_isoparametrization' wordt verlaten
+cd meshlabplugins/filter_layer/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_layer' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_layer' wordt verlaten
+cd meshlabplugins/filter_measure/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_measure' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_measure' wordt verlaten
+cd meshlabplugins/filter_meshing/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_meshing' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_meshing' wordt verlaten
+cd meshlabplugins/filter_mutualinfoxml/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mutualinfoxml' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mutualinfoxml' wordt verlaten
+cd meshlabplugins/filter_mls/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mls' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mls' wordt verlaten
+cd meshlabplugins/filter_photosynth/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_photosynth' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_photosynth' wordt verlaten
+cd meshlabplugins/filter_plymc/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_plymc' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_plymc' wordt verlaten
+cd meshlabplugins/filter_poisson/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_poisson' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_poisson' wordt verlaten
+cd meshlabplugins/filter_qhull/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_qhull' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_qhull' wordt verlaten
+cd meshlabplugins/filter_quality/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_quality' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_quality' wordt verlaten
+cd meshlabplugins/filter_sampling/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sampling' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sampling' wordt verlaten
+cd meshlabplugins/filter_sdfgpu/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sdfgpu' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sdfgpu' wordt verlaten
+cd meshlabplugins/filter_select/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_select' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_select' wordt verlaten
+cd meshlabplugins/filter_ssynth/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ssynth' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ssynth' wordt verlaten
+cd meshlabplugins/filter_texture/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_texture' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_texture' wordt verlaten
+cd meshlabplugins/filter_trioptimize/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_trioptimize' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_trioptimize' wordt verlaten
+cd meshlabplugins/filter_unsharp/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_unsharp' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_unsharp' wordt verlaten
+cd meshlabplugins/filter_zippering/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_zippering' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_zippering' wordt verlaten
+cd meshlabplugins/render_splatting/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_splatting' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_splatting' wordt verlaten
+cd meshlabplugins/render_gdp/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_gdp' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_gdp' wordt verlaten
+cd meshlabplugins/render_radiance_scaling/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_radiance_scaling' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_radiance_scaling' wordt verlaten
+cd meshlabplugins/render_rfx/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_rfx' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_rfx' wordt verlaten
+cd meshlabplugins/decorate_base/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_base' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_base' wordt verlaten
+cd meshlabplugins/decorate_background/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_background' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_background' wordt verlaten
+cd meshlabplugins/decorate_shadow/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_shadow' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_shadow' wordt verlaten
+cd meshlabplugins/decorate_raster_proj/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_raster_proj' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_raster_proj' wordt verlaten
+cd meshlabplugins/edit_select/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_select' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_select' wordt verlaten
+cd meshlabplugins/edit_pickpoints/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_pickpoints' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_pickpoints' wordt verlaten
+cd meshlabplugins/edit_align/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_align' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_align' wordt verlaten
+cd meshlabplugins/edit_measure/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_measure' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_measure' wordt verlaten
+cd meshlabplugins/edit_hole/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_hole' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_hole' wordt verlaten
+cd meshlabplugins/edit_paint/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_paint' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_paint' wordt verlaten
+cd meshlabplugins/edit_point/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_point' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_point' wordt verlaten
+cd meshlabplugins/edit_quality/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_quality' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_quality' wordt verlaten
+cd meshlabplugins/edit_texture/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_texture' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_texture' wordt verlaten
+cd meshlabplugins/edit_manipulators/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_manipulators' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_manipulators' wordt verlaten
+cd meshlabplugins/edit_arc3D/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_arc3D' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_arc3D' wordt verlaten
+cd plugins_unsupported/filter_mutualinfo/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/filter_mutualinfo' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/filter_mutualinfo' wordt verlaten
+cd plugins_unsupported/editpaint/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/editpaint' wordt binnengegaan
+gcc -c -pipe -O2 -Wall -W -D_REENTRANT -fPIC -DQT_NO_DEBUG -DQT_PLUGIN -DQT_SCRIPT_LIB -DQT_XMLPATTERNS_LIB -DQT_XML_LIB -DQT_OPENGL_LIB -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED -I/usr/share/qt4/mkspecs/linux-g++ -I. -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml -I/usr/include/qt4/QtXmlPatterns -I/usr/include/qt4/QtScript -I/usr/include/qt4 -I../.. -I../../../../vcglib -I../../external/glew-1.7.0/include -I/usr/X11R6/include -I. -I. -o edit_paint_factory.o edit_paint_factory.h
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/editpaint' wordt verlaten
+cd common/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/common' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/common' wordt verlaten
+cd meshlab/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlab' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlab' wordt verlaten
+cd meshlabserver/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabserver' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabserver' wordt verlaten
+cd meshlabplugins/io_base/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_base' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_base' wordt verlaten
+cd meshlabplugins/io_3ds/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_3ds' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_3ds' wordt verlaten
+cd meshlabplugins/io_bre/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_bre' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_bre' wordt verlaten
+cd meshlabplugins/io_collada/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_collada' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_collada' wordt verlaten
+cd meshlabplugins/io_ctm/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_ctm' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_ctm' wordt verlaten
+cd meshlabplugins/io_json/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_json' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_json' wordt verlaten
+cd meshlabplugins/io_u3d/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_u3d' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_u3d' wordt verlaten
+cd meshlabplugins/io_tri/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_tri' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_tri' wordt verlaten
+cd meshlabplugins/io_x3d/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_x3d' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_x3d' wordt verlaten
+cd meshlabplugins/io_gts/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_gts' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_gts' wordt verlaten
+cd meshlabplugins/io_expe/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_expe' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_expe' wordt verlaten
+cd meshlabplugins/io_pdb/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_pdb' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_pdb' wordt verlaten
+cd meshlabplugins/filter_aging/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_aging' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_aging' wordt verlaten
+cd meshlabplugins/filter_ao/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ao' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ao' wordt verlaten
+cd meshlabplugins/filter_autoalign/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_autoalign' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_autoalign' wordt verlaten
+cd meshlabplugins/filter_camera/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_camera' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_camera' wordt verlaten
+cd meshlabplugins/filter_bnpts/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_bnpts' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_bnpts' wordt verlaten
+cd meshlabplugins/filter_clean/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_clean' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_clean' wordt verlaten
+cd meshlabplugins/filter_colorize/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorize' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorize' wordt verlaten
+cd meshlabplugins/filter_colorproc/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorproc' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorproc' wordt verlaten
+cd meshlabplugins/filter_color_projection/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_color_projection' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_color_projection' wordt verlaten
+cd meshlabplugins/filter_create/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_create' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_create' wordt verlaten
+cd meshlabplugins/filter_csg/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_csg' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_csg' wordt verlaten
+cd meshlabplugins/filter_dirt/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_dirt' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_dirt' wordt verlaten
+cd meshlabplugins/filter_fractal/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_fractal' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_fractal' wordt verlaten
+cd meshlabplugins/filter_func/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_func' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_func' wordt verlaten
+cd meshlabplugins/filter_img_patch_param/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_img_patch_param' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_img_patch_param' wordt verlaten
+cd meshlabplugins/filter_isoparametrization/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_isoparametrization' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_isoparametrization' wordt verlaten
+cd meshlabplugins/filter_layer/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_layer' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_layer' wordt verlaten
+cd meshlabplugins/filter_measure/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_measure' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_measure' wordt verlaten
+cd meshlabplugins/filter_meshing/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_meshing' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_meshing' wordt verlaten
+cd meshlabplugins/filter_mutualinfoxml/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mutualinfoxml' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mutualinfoxml' wordt verlaten
+cd meshlabplugins/filter_mls/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mls' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mls' wordt verlaten
+cd meshlabplugins/filter_photosynth/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_photosynth' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_photosynth' wordt verlaten
+cd meshlabplugins/filter_plymc/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_plymc' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_plymc' wordt verlaten
+cd meshlabplugins/filter_poisson/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_poisson' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_poisson' wordt verlaten
+cd meshlabplugins/filter_qhull/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_qhull' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_qhull' wordt verlaten
+cd meshlabplugins/filter_quality/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_quality' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_quality' wordt verlaten
+cd meshlabplugins/filter_sampling/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sampling' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sampling' wordt verlaten
+cd meshlabplugins/filter_sdfgpu/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sdfgpu' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sdfgpu' wordt verlaten
+cd meshlabplugins/filter_select/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_select' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_select' wordt verlaten
+cd meshlabplugins/filter_ssynth/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ssynth' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ssynth' wordt verlaten
+cd meshlabplugins/filter_texture/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_texture' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_texture' wordt verlaten
+cd meshlabplugins/filter_trioptimize/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_trioptimize' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_trioptimize' wordt verlaten
+cd meshlabplugins/filter_unsharp/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_unsharp' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_unsharp' wordt verlaten
+cd meshlabplugins/filter_zippering/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_zippering' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_zippering' wordt verlaten
+cd meshlabplugins/render_splatting/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_splatting' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_splatting' wordt verlaten
+cd meshlabplugins/render_gdp/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_gdp' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_gdp' wordt verlaten
+cd meshlabplugins/render_radiance_scaling/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_radiance_scaling' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_radiance_scaling' wordt verlaten
+cd meshlabplugins/render_rfx/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_rfx' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_rfx' wordt verlaten
+cd meshlabplugins/decorate_base/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_base' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_base' wordt verlaten
+cd meshlabplugins/decorate_background/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_background' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_background' wordt verlaten
+cd meshlabplugins/decorate_shadow/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_shadow' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_shadow' wordt verlaten
+cd meshlabplugins/decorate_raster_proj/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_raster_proj' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_raster_proj' wordt verlaten
+cd meshlabplugins/edit_select/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_select' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_select' wordt verlaten
+cd meshlabplugins/edit_pickpoints/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_pickpoints' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_pickpoints' wordt verlaten
+cd meshlabplugins/edit_align/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_align' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_align' wordt verlaten
+cd meshlabplugins/edit_measure/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_measure' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_measure' wordt verlaten
+cd meshlabplugins/edit_hole/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_hole' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_hole' wordt verlaten
+cd meshlabplugins/edit_paint/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_paint' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_paint' wordt verlaten
+cd meshlabplugins/edit_point/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_point' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_point' wordt verlaten
+cd meshlabplugins/edit_quality/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_quality' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_quality' wordt verlaten
+cd meshlabplugins/edit_texture/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_texture' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_texture' wordt verlaten
+cd meshlabplugins/edit_manipulators/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_manipulators' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_manipulators' wordt verlaten
+cd meshlabplugins/edit_arc3D/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_arc3D' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_arc3D' wordt verlaten
+cd plugins_unsupported/filter_mutualinfo/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/filter_mutualinfo' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/filter_mutualinfo' wordt verlaten
+cd plugins_unsupported/editpaint/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/editpaint' wordt binnengegaan
+gcc -c -pipe -O2 -Wall -W -D_REENTRANT -fPIC -DQT_NO_DEBUG -DQT_PLUGIN -DQT_SCRIPT_LIB -DQT_XMLPATTERNS_LIB -DQT_XML_LIB -DQT_OPENGL_LIB -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED -I/usr/share/qt4/mkspecs/linux-g++ -I. -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml -I/usr/include/qt4/QtXmlPatterns -I/usr/include/qt4/QtScript -I/usr/include/qt4 -I../.. -I../../../../vcglib -I../../external/glew-1.7.0/include -I/usr/X11R6/include -I. -I. -o edit_paint_factory.o edit_paint_factory.h
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/editpaint' wordt verlaten
+cd common/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/common' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/common' wordt verlaten
+cd meshlab/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlab' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlab' wordt verlaten
+cd meshlabserver/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabserver' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabserver' wordt verlaten
+cd meshlabplugins/io_base/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_base' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_base' wordt verlaten
+cd meshlabplugins/io_3ds/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_3ds' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_3ds' wordt verlaten
+cd meshlabplugins/io_bre/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_bre' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_bre' wordt verlaten
+cd meshlabplugins/io_collada/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_collada' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_collada' wordt verlaten
+cd meshlabplugins/io_ctm/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_ctm' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_ctm' wordt verlaten
+cd meshlabplugins/io_json/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_json' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_json' wordt verlaten
+cd meshlabplugins/io_u3d/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_u3d' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_u3d' wordt verlaten
+cd meshlabplugins/io_tri/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_tri' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_tri' wordt verlaten
+cd meshlabplugins/io_x3d/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_x3d' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_x3d' wordt verlaten
+cd meshlabplugins/io_gts/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_gts' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_gts' wordt verlaten
+cd meshlabplugins/io_expe/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_expe' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_expe' wordt verlaten
+cd meshlabplugins/io_pdb/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_pdb' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_pdb' wordt verlaten
+cd meshlabplugins/filter_aging/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_aging' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_aging' wordt verlaten
+cd meshlabplugins/filter_ao/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ao' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ao' wordt verlaten
+cd meshlabplugins/filter_autoalign/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_autoalign' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_autoalign' wordt verlaten
+cd meshlabplugins/filter_camera/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_camera' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_camera' wordt verlaten
+cd meshlabplugins/filter_bnpts/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_bnpts' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_bnpts' wordt verlaten
+cd meshlabplugins/filter_clean/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_clean' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_clean' wordt verlaten
+cd meshlabplugins/filter_colorize/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorize' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorize' wordt verlaten
+cd meshlabplugins/filter_colorproc/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorproc' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorproc' wordt verlaten
+cd meshlabplugins/filter_color_projection/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_color_projection' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_color_projection' wordt verlaten
+cd meshlabplugins/filter_create/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_create' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_create' wordt verlaten
+cd meshlabplugins/filter_csg/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_csg' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_csg' wordt verlaten
+cd meshlabplugins/filter_dirt/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_dirt' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_dirt' wordt verlaten
+cd meshlabplugins/filter_fractal/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_fractal' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_fractal' wordt verlaten
+cd meshlabplugins/filter_func/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_func' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_func' wordt verlaten
+cd meshlabplugins/filter_img_patch_param/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_img_patch_param' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_img_patch_param' wordt verlaten
+cd meshlabplugins/filter_isoparametrization/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_isoparametrization' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_isoparametrization' wordt verlaten
+cd meshlabplugins/filter_layer/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_layer' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_layer' wordt verlaten
+cd meshlabplugins/filter_measure/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_measure' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_measure' wordt verlaten
+cd meshlabplugins/filter_meshing/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_meshing' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_meshing' wordt verlaten
+cd meshlabplugins/filter_mutualinfoxml/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mutualinfoxml' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mutualinfoxml' wordt verlaten
+cd meshlabplugins/filter_mls/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mls' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mls' wordt verlaten
+cd meshlabplugins/filter_photosynth/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_photosynth' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_photosynth' wordt verlaten
+cd meshlabplugins/filter_plymc/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_plymc' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_plymc' wordt verlaten
+cd meshlabplugins/filter_poisson/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_poisson' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_poisson' wordt verlaten
+cd meshlabplugins/filter_qhull/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_qhull' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_qhull' wordt verlaten
+cd meshlabplugins/filter_quality/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_quality' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_quality' wordt verlaten
+cd meshlabplugins/filter_sampling/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sampling' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sampling' wordt verlaten
+cd meshlabplugins/filter_sdfgpu/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sdfgpu' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sdfgpu' wordt verlaten
+cd meshlabplugins/filter_select/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_select' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_select' wordt verlaten
+cd meshlabplugins/filter_ssynth/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ssynth' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ssynth' wordt verlaten
+cd meshlabplugins/filter_texture/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_texture' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_texture' wordt verlaten
+cd meshlabplugins/filter_trioptimize/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_trioptimize' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_trioptimize' wordt verlaten
+cd meshlabplugins/filter_unsharp/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_unsharp' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_unsharp' wordt verlaten
+cd meshlabplugins/filter_zippering/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_zippering' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_zippering' wordt verlaten
+cd meshlabplugins/render_splatting/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_splatting' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_splatting' wordt verlaten
+cd meshlabplugins/render_gdp/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_gdp' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_gdp' wordt verlaten
+cd meshlabplugins/render_radiance_scaling/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_radiance_scaling' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_radiance_scaling' wordt verlaten
+cd meshlabplugins/render_rfx/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_rfx' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_rfx' wordt verlaten
+cd meshlabplugins/decorate_base/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_base' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_base' wordt verlaten
+cd meshlabplugins/decorate_background/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_background' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_background' wordt verlaten
+cd meshlabplugins/decorate_shadow/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_shadow' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_shadow' wordt verlaten
+cd meshlabplugins/decorate_raster_proj/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_raster_proj' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_raster_proj' wordt verlaten
+cd meshlabplugins/edit_select/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_select' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_select' wordt verlaten
+cd meshlabplugins/edit_pickpoints/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_pickpoints' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_pickpoints' wordt verlaten
+cd meshlabplugins/edit_align/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_align' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_align' wordt verlaten
+cd meshlabplugins/edit_measure/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_measure' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_measure' wordt verlaten
+cd meshlabplugins/edit_hole/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_hole' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_hole' wordt verlaten
+cd meshlabplugins/edit_paint/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_paint' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_paint' wordt verlaten
+cd meshlabplugins/edit_point/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_point' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_point' wordt verlaten
+cd meshlabplugins/edit_quality/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_quality' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_quality' wordt verlaten
+cd meshlabplugins/edit_texture/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_texture' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_texture' wordt verlaten
+cd meshlabplugins/edit_manipulators/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_manipulators' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_manipulators' wordt verlaten
+cd meshlabplugins/edit_arc3D/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_arc3D' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_arc3D' wordt verlaten
+cd plugins_unsupported/filter_mutualinfo/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/filter_mutualinfo' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/filter_mutualinfo' wordt verlaten
+cd plugins_unsupported/editpaint/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/editpaint' wordt binnengegaan
+gcc -c -pipe -O2 -Wall -W -D_REENTRANT -fPIC -DQT_NO_DEBUG -DQT_PLUGIN -DQT_SCRIPT_LIB -DQT_XMLPATTERNS_LIB -DQT_XML_LIB -DQT_OPENGL_LIB -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED -I/usr/share/qt4/mkspecs/linux-g++ -I. -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml -I/usr/include/qt4/QtXmlPatterns -I/usr/include/qt4/QtScript -I/usr/include/qt4 -I../.. -I../../../../vcglib -I../../external/glew-1.7.0/include -I/usr/X11R6/include -I. -I. -o edit_paint_factory.o edit_paint_factory.h
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/editpaint' wordt verlaten
+cd common/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/common' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/common' wordt verlaten
+cd meshlab/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlab' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlab' wordt verlaten
+cd meshlabserver/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabserver' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabserver' wordt verlaten
+cd meshlabplugins/io_base/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_base' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_base' wordt verlaten
+cd meshlabplugins/io_3ds/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_3ds' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_3ds' wordt verlaten
+cd meshlabplugins/io_bre/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_bre' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_bre' wordt verlaten
+cd meshlabplugins/io_collada/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_collada' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_collada' wordt verlaten
+cd meshlabplugins/io_ctm/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_ctm' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_ctm' wordt verlaten
+cd meshlabplugins/io_json/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_json' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_json' wordt verlaten
+cd meshlabplugins/io_u3d/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_u3d' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_u3d' wordt verlaten
+cd meshlabplugins/io_tri/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_tri' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_tri' wordt verlaten
+cd meshlabplugins/io_x3d/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_x3d' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_x3d' wordt verlaten
+cd meshlabplugins/io_gts/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_gts' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_gts' wordt verlaten
+cd meshlabplugins/io_expe/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_expe' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_expe' wordt verlaten
+cd meshlabplugins/io_pdb/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_pdb' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_pdb' wordt verlaten
+cd meshlabplugins/filter_aging/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_aging' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_aging' wordt verlaten
+cd meshlabplugins/filter_ao/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ao' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ao' wordt verlaten
+cd meshlabplugins/filter_autoalign/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_autoalign' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_autoalign' wordt verlaten
+cd meshlabplugins/filter_camera/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_camera' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_camera' wordt verlaten
+cd meshlabplugins/filter_bnpts/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_bnpts' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_bnpts' wordt verlaten
+cd meshlabplugins/filter_clean/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_clean' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_clean' wordt verlaten
+cd meshlabplugins/filter_colorize/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorize' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorize' wordt verlaten
+cd meshlabplugins/filter_colorproc/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorproc' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorproc' wordt verlaten
+cd meshlabplugins/filter_color_projection/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_color_projection' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_color_projection' wordt verlaten
+cd meshlabplugins/filter_create/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_create' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_create' wordt verlaten
+cd meshlabplugins/filter_csg/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_csg' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_csg' wordt verlaten
+cd meshlabplugins/filter_dirt/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_dirt' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_dirt' wordt verlaten
+cd meshlabplugins/filter_fractal/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_fractal' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_fractal' wordt verlaten
+cd meshlabplugins/filter_func/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_func' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_func' wordt verlaten
+cd meshlabplugins/filter_img_patch_param/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_img_patch_param' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_img_patch_param' wordt verlaten
+cd meshlabplugins/filter_isoparametrization/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_isoparametrization' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_isoparametrization' wordt verlaten
+cd meshlabplugins/filter_layer/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_layer' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_layer' wordt verlaten
+cd meshlabplugins/filter_measure/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_measure' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_measure' wordt verlaten
+cd meshlabplugins/filter_meshing/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_meshing' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_meshing' wordt verlaten
+cd meshlabplugins/filter_mutualinfoxml/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mutualinfoxml' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mutualinfoxml' wordt verlaten
+cd meshlabplugins/filter_mls/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mls' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mls' wordt verlaten
+cd meshlabplugins/filter_photosynth/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_photosynth' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_photosynth' wordt verlaten
+cd meshlabplugins/filter_plymc/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_plymc' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_plymc' wordt verlaten
+cd meshlabplugins/filter_poisson/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_poisson' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_poisson' wordt verlaten
+cd meshlabplugins/filter_qhull/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_qhull' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_qhull' wordt verlaten
+cd meshlabplugins/filter_quality/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_quality' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_quality' wordt verlaten
+cd meshlabplugins/filter_sampling/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sampling' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sampling' wordt verlaten
+cd meshlabplugins/filter_sdfgpu/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sdfgpu' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sdfgpu' wordt verlaten
+cd meshlabplugins/filter_select/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_select' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_select' wordt verlaten
+cd meshlabplugins/filter_ssynth/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ssynth' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ssynth' wordt verlaten
+cd meshlabplugins/filter_texture/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_texture' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_texture' wordt verlaten
+cd meshlabplugins/filter_trioptimize/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_trioptimize' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_trioptimize' wordt verlaten
+cd meshlabplugins/filter_unsharp/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_unsharp' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_unsharp' wordt verlaten
+cd meshlabplugins/filter_zippering/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_zippering' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_zippering' wordt verlaten
+cd meshlabplugins/render_splatting/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_splatting' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_splatting' wordt verlaten
+cd meshlabplugins/render_gdp/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_gdp' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_gdp' wordt verlaten
+cd meshlabplugins/render_radiance_scaling/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_radiance_scaling' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_radiance_scaling' wordt verlaten
+cd meshlabplugins/render_rfx/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_rfx' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_rfx' wordt verlaten
+cd meshlabplugins/decorate_base/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_base' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_base' wordt verlaten
+cd meshlabplugins/decorate_background/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_background' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_background' wordt verlaten
+cd meshlabplugins/decorate_shadow/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_shadow' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_shadow' wordt verlaten
+cd meshlabplugins/decorate_raster_proj/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_raster_proj' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_raster_proj' wordt verlaten
+cd meshlabplugins/edit_select/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_select' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_select' wordt verlaten
+cd meshlabplugins/edit_pickpoints/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_pickpoints' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_pickpoints' wordt verlaten
+cd meshlabplugins/edit_align/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_align' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_align' wordt verlaten
+cd meshlabplugins/edit_measure/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_measure' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_measure' wordt verlaten
+cd meshlabplugins/edit_hole/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_hole' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_hole' wordt verlaten
+cd meshlabplugins/edit_paint/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_paint' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_paint' wordt verlaten
+cd meshlabplugins/edit_point/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_point' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_point' wordt verlaten
+cd meshlabplugins/edit_quality/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_quality' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_quality' wordt verlaten
+cd meshlabplugins/edit_texture/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_texture' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_texture' wordt verlaten
+cd meshlabplugins/edit_manipulators/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_manipulators' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_manipulators' wordt verlaten
+cd meshlabplugins/edit_arc3D/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_arc3D' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_arc3D' wordt verlaten
+cd plugins_unsupported/filter_mutualinfo/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/filter_mutualinfo' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/filter_mutualinfo' wordt verlaten
+cd plugins_unsupported/editpaint/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/editpaint' wordt binnengegaan
+gcc -c -pipe -O2 -Wall -W -D_REENTRANT -fPIC -DQT_NO_DEBUG -DQT_PLUGIN -DQT_SCRIPT_LIB -DQT_XMLPATTERNS_LIB -DQT_XML_LIB -DQT_OPENGL_LIB -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED -I/usr/share/qt4/mkspecs/linux-g++ -I. -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml -I/usr/include/qt4/QtXmlPatterns -I/usr/include/qt4/QtScript -I/usr/include/qt4 -I../.. -I../../../../vcglib -I../../external/glew-1.7.0/include -I/usr/X11R6/include -I. -I. -o edit_paint_factory.o edit_paint_factory.h
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/editpaint' wordt verlaten
+cd common/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/common' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/common' wordt verlaten
+cd meshlab/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlab' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlab' wordt verlaten
+cd meshlabserver/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabserver' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabserver' wordt verlaten
+cd meshlabplugins/io_base/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_base' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_base' wordt verlaten
+cd meshlabplugins/io_3ds/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_3ds' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_3ds' wordt verlaten
+cd meshlabplugins/io_bre/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_bre' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_bre' wordt verlaten
+cd meshlabplugins/io_collada/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_collada' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_collada' wordt verlaten
+cd meshlabplugins/io_ctm/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_ctm' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_ctm' wordt verlaten
+cd meshlabplugins/io_json/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_json' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_json' wordt verlaten
+cd meshlabplugins/io_u3d/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_u3d' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_u3d' wordt verlaten
+cd meshlabplugins/io_tri/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_tri' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_tri' wordt verlaten
+cd meshlabplugins/io_x3d/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_x3d' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_x3d' wordt verlaten
+cd meshlabplugins/io_gts/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_gts' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_gts' wordt verlaten
+cd meshlabplugins/io_expe/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_expe' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_expe' wordt verlaten
+cd meshlabplugins/io_pdb/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_pdb' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/io_pdb' wordt verlaten
+cd meshlabplugins/filter_aging/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_aging' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_aging' wordt verlaten
+cd meshlabplugins/filter_ao/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ao' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ao' wordt verlaten
+cd meshlabplugins/filter_autoalign/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_autoalign' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_autoalign' wordt verlaten
+cd meshlabplugins/filter_camera/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_camera' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_camera' wordt verlaten
+cd meshlabplugins/filter_bnpts/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_bnpts' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_bnpts' wordt verlaten
+cd meshlabplugins/filter_clean/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_clean' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_clean' wordt verlaten
+cd meshlabplugins/filter_colorize/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorize' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorize' wordt verlaten
+cd meshlabplugins/filter_colorproc/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorproc' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_colorproc' wordt verlaten
+cd meshlabplugins/filter_color_projection/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_color_projection' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_color_projection' wordt verlaten
+cd meshlabplugins/filter_create/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_create' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_create' wordt verlaten
+cd meshlabplugins/filter_csg/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_csg' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_csg' wordt verlaten
+cd meshlabplugins/filter_dirt/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_dirt' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_dirt' wordt verlaten
+cd meshlabplugins/filter_fractal/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_fractal' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_fractal' wordt verlaten
+cd meshlabplugins/filter_func/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_func' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_func' wordt verlaten
+cd meshlabplugins/filter_img_patch_param/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_img_patch_param' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_img_patch_param' wordt verlaten
+cd meshlabplugins/filter_isoparametrization/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_isoparametrization' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_isoparametrization' wordt verlaten
+cd meshlabplugins/filter_layer/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_layer' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_layer' wordt verlaten
+cd meshlabplugins/filter_measure/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_measure' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_measure' wordt verlaten
+cd meshlabplugins/filter_meshing/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_meshing' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_meshing' wordt verlaten
+cd meshlabplugins/filter_mutualinfoxml/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mutualinfoxml' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mutualinfoxml' wordt verlaten
+cd meshlabplugins/filter_mls/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mls' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_mls' wordt verlaten
+cd meshlabplugins/filter_photosynth/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_photosynth' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_photosynth' wordt verlaten
+cd meshlabplugins/filter_plymc/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_plymc' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_plymc' wordt verlaten
+cd meshlabplugins/filter_poisson/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_poisson' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_poisson' wordt verlaten
+cd meshlabplugins/filter_qhull/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_qhull' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_qhull' wordt verlaten
+cd meshlabplugins/filter_quality/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_quality' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_quality' wordt verlaten
+cd meshlabplugins/filter_sampling/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sampling' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sampling' wordt verlaten
+cd meshlabplugins/filter_sdfgpu/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sdfgpu' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_sdfgpu' wordt verlaten
+cd meshlabplugins/filter_select/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_select' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_select' wordt verlaten
+cd meshlabplugins/filter_ssynth/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ssynth' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_ssynth' wordt verlaten
+cd meshlabplugins/filter_texture/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_texture' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_texture' wordt verlaten
+cd meshlabplugins/filter_trioptimize/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_trioptimize' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_trioptimize' wordt verlaten
+cd meshlabplugins/filter_unsharp/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_unsharp' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_unsharp' wordt verlaten
+cd meshlabplugins/filter_zippering/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_zippering' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/filter_zippering' wordt verlaten
+cd meshlabplugins/render_splatting/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_splatting' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_splatting' wordt verlaten
+cd meshlabplugins/render_gdp/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_gdp' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_gdp' wordt verlaten
+cd meshlabplugins/render_radiance_scaling/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_radiance_scaling' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_radiance_scaling' wordt verlaten
+cd meshlabplugins/render_rfx/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_rfx' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/render_rfx' wordt verlaten
+cd meshlabplugins/decorate_base/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_base' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_base' wordt verlaten
+cd meshlabplugins/decorate_background/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_background' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_background' wordt verlaten
+cd meshlabplugins/decorate_shadow/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_shadow' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_shadow' wordt verlaten
+cd meshlabplugins/decorate_raster_proj/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_raster_proj' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/decorate_raster_proj' wordt verlaten
+cd meshlabplugins/edit_select/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_select' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_select' wordt verlaten
+cd meshlabplugins/edit_pickpoints/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_pickpoints' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_pickpoints' wordt verlaten
+cd meshlabplugins/edit_align/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_align' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_align' wordt verlaten
+cd meshlabplugins/edit_measure/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_measure' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_measure' wordt verlaten
+cd meshlabplugins/edit_hole/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_hole' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_hole' wordt verlaten
+cd meshlabplugins/edit_paint/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_paint' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_paint' wordt verlaten
+cd meshlabplugins/edit_point/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_point' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_point' wordt verlaten
+cd meshlabplugins/edit_quality/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_quality' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_quality' wordt verlaten
+cd meshlabplugins/edit_texture/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_texture' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_texture' wordt verlaten
+cd meshlabplugins/edit_manipulators/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_manipulators' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_manipulators' wordt verlaten
+cd meshlabplugins/edit_arc3D/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_arc3D' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/meshlabplugins/edit_arc3D' wordt verlaten
+cd plugins_unsupported/filter_mutualinfo/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/filter_mutualinfo' wordt binnengegaan
+make[1]: Er hoeft niets gedaan te worden voor 'first'.
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/filter_mutualinfo' wordt verlaten
+cd plugins_unsupported/editpaint/ && make -f Makefile 
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/editpaint' wordt binnengegaan
+gcc -c -pipe -O2 -Wall -W -D_REENTRANT -fPIC -DQT_NO_DEBUG -DQT_PLUGIN -DQT_SCRIPT_LIB -DQT_XMLPATTERNS_LIB -DQT_XML_LIB -DQT_OPENGL_LIB -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED -I/usr/share/qt4/mkspecs/linux-g++ -I. -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtOpenGL -I/usr/include/qt4/QtXml -I/usr/include/qt4/QtXmlPatterns -I/usr/include/qt4/QtScript -I/usr/include/qt4 -I../.. -I../../../../vcglib -I../../external/glew-1.7.0/include -I/usr/X11R6/include -I. -I. -o edit_paint_factory.o edit_paint_factory.h
+make[1]: Map '/home/christian/git/MeshLabMC/meshlab/src/plugins_unsupported/editpaint' wordt verlaten
