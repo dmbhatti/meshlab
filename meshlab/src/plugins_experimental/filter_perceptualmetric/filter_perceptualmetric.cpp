@@ -31,8 +31,8 @@ $Log: filter_perceptualmetric.cpp,v $
 #include <stdlib.h>
 #include <time.h>
 
-#include <meshlab/meshmodel.h>
-#include <meshlab/interfaces.h>
+#include <common/meshmodel.h>
+#include <common/interfaces.h>
 
 #include <vcg/complex/algorithms/point_sampling.h>
 #include <vcg/complex/algorithms/create/resampler.h>

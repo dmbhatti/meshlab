@@ -46,7 +46,7 @@ class AlignSet {
   std::vector<QImage*> arcImages;
   std::vector<vcg::Shot<float>*> arcShots;
   std::vector<float> arcMI;
-  std::vector<vcg::Matrix44<float>> prjMats;
+  std::vector< vcg::Matrix44<float> > prjMats;
   
 
   GLuint vbo, nbo, cbo, ibo;  // vertex buffer object (vertices, normals, colors indices)

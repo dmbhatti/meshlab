@@ -34,7 +34,7 @@
 //#include <wrap/minpack/minpack.h>
 #include <vcg/math/point_matching.h>
 #include <vcg/math/histogram.h>
-#include "../../meshlab/meshmodel.h"
+#include <common/meshmodel.h>
 
 
 

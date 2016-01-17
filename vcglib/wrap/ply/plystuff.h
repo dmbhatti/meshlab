@@ -57,6 +57,7 @@ Cleaning of the automatic bbox caching support for ply files. First working vers
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h> 
+#include <unistd.h>
 #ifdef WIN32
 #include <io.h>
 #endif

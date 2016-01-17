@@ -8,18 +8,25 @@ email: gfrei.andreas@gmx.net
 #ifndef EDITPAINT_H
 #define EDITPAINT_H
 
+#include <math.h>
+#include <stdlib.h>
+#include <limits>
+
 #include <QObject>
 #include <QStringList>
 #include <QList>
 #include <QDockWidget>
 #include <QHash>
 #include <QDialog>
+#include <QtGui>
 
-#include <meshlab/meshmodel.h>
-#include <meshlab/interfaces.h>
+
+#include <common/meshmodel.h>
+#include <common/interfaces.h>
 #include <vcg/math/matrix44.h>
+#include <wrap/gl/pick.h>
 #include "ui_PaintToolbox.h"
-#include "colorwid.h"
+//#include "colorwid.h"
 
 class EditPaintPlugin;
 class PaintToolbox;

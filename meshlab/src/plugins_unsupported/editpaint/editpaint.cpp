@@ -54,15 +54,11 @@ The first version contains:
 ---------CONFIG--------------
 *) fast or slow and accurate face search
 *****************************************************************************/
-#include <QtGui>
 
-#include <math.h>
-#include <stdlib.h>
-#include <meshlab/glarea.h>
+//#include <meshlab/glarea.h>
 #include "editpaint.h"
 #include <stdio.h>
-#include <wrap/gl/pick.h>
-#include <limits>
+
 
 #include<vcg/complex/algorithms/update/topology.h>
 #include<vcg/complex/algorithms/update/bounding.h>

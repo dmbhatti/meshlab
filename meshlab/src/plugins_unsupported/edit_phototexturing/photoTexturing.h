@@ -27,11 +27,11 @@
 #include <QStringList>
 #include <QList>
 
-#include <meshlab/meshmodel.h>
-#include <meshlab/interfaces.h>
+#include <common/meshmodel.h>
+#include <common/interfaces.h>
 
-#include <PhotoTexturingWidget.h>
-#include <src/PhotoTexturer.h>
+#include "PhotoTexturingWidget.h"
+#include "src/PhotoTexturer.h"
 
 class PhotoTexturingPlugin : public QObject, public MeshEditInterface {
 	Q_OBJECT

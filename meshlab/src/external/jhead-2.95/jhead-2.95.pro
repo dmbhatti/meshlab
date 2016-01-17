@@ -6,11 +6,16 @@ CONFIG += staticlib
 DEPENDPATH += .
 INCLUDEPATH += .
 
+#linux-g++:DEFINES += OPENCTM_STATIC
+linux-g++-32:QMAKE_CFLAGS += -m32
+linux-g++-32:QMAKE_CXXFLAGS += -m32
+#linux-g++-32:DEFINES += OPENCTM_STATIC
+
 # Input
 HEADERS += jhead.h
 
-SOURCES += 		jpgfile.c \
-				jhead.c  \
+SOURCES += 	jpgfile.c \
+		jhead.c  \
                 paths.c \
                 exif.c \
                 iptc.c \

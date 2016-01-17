@@ -25,9 +25,9 @@
 
 #include <math.h>
 #include <stdlib.h>
-#include <meshlab/glarea.h>
+//#include <meshlab/glarea.h>
 #include <wrap/qt/trackball.h>
-#include <PhotoTexturingWidget.h>
+#include "PhotoTexturingWidget.h"
 #include "photoTexturing.h"
 
 using namespace std;

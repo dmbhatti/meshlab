@@ -30,8 +30,8 @@ $Log: filter_perceptualmetric.h,v $
 
 #include <QObject>
 
-#include <meshlab/meshmodel.h>
-#include <meshlab/interfaces.h>
+#include <common/meshmodel.h>
+#include <common/interfaces.h>
 
 class FilterPerceptualMetric : public QObject, public MeshFilterInterface
 {

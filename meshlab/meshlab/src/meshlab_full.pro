@@ -66,14 +66,28 @@ SUBDIRS       = common \
                 meshlabplugins/edit_measure \
                 meshlabplugins/edit_hole \
                 meshlabplugins/edit_paint\
-				meshlabplugins/edit_point\
+		meshlabplugins/edit_point\
                 meshlabplugins/edit_quality \
                 meshlabplugins/edit_texture \
-				meshlabplugins/edit_manipulators \
+		meshlabplugins/edit_manipulators \
                 meshlabplugins/edit_arc3D \
+		plugins_unsupported/filter_mutualinfo \
+		plugins_unsupported/edit_fit \
+		plugins_unsupported/editpaint \
+		plugins_unsupported/phototexturing \
+		plugins_unsupported/editrgbtri \
+		plugins_unsupported/editsegment \
+		plugins_unsupported/edit_staightener \
+		plugins_unsupported/filterborder \
+		plugins_unsupported/filter_curvature_from_sliding \
+		plugins_unsupported/filter_rangemap \
+		plugins_unsupported/io_epoc \
+		plugins_unsupported/render_rm \
+		plugins_unsupported/samplefilterdoc \
+		plugins_unsupported/shaders \
                 sampleplugins/sampleedit \
                 sampleplugins/samplefilter \
                 sampleplugins/samplefilterdyn \
-              sampleplugins/io_m\
-               sampleplugins/filter_geodesic \
-               sampleplugins/filter_createiso
+		sampleplugins/io_m\
+		sampleplugins/filter_geodesic \
+		sampleplugins/filter_createiso

@@ -44,7 +44,7 @@ code restyling
 // Local headers
 #include "parser/RmPass.h"
 #include "parser/UniformVar.h"
-#include <meshlab/meshmodel.h>
+#include <common/meshmodel.h>
 
 // QT heades
 #include <QString>

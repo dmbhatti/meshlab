@@ -32,8 +32,8 @@
 #include <QApplication>
 #include <QMap>
 #include <QMessageBox>
-#include <meshlab/meshmodel.h>
-#include <meshlab/interfaces.h>
+#include <common/meshmodel.h>
+#include <common/interfaces.h>
 #include "parser/RmXmlParser.h"
 #include "rmshaderdialog.h"
 #include "glstateholder.h"

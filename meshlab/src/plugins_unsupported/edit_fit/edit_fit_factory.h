@@ -25,11 +25,11 @@
 #ifndef EditFitFactoryPLUGIN_H
 #define EditFitFactoryPLUGIN_H
 
-#include <meshlab/interfaces.h>
+#include <common/interfaces.h>
 #include <QObject>
 #include <QList>
 
-class Factory : public QObject, public MeshEditInterfaceFactory
+class EditFitFactory : public QObject, public MeshEditInterfaceFactory
 {
 	Q_OBJECT
 	Q_INTERFACES(MeshEditInterfaceFactory)

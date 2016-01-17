@@ -2,7 +2,11 @@
 #define GMPFRAC_H
 
 #include <iostream>
+#ifdef _WIN32 || __APPLE__
 #include <mpirxx.h>
+#else
+#include <gmpxx.h>
+#endif
 
 inline long floor(const mpq_class &x) {
     mpz_class q;

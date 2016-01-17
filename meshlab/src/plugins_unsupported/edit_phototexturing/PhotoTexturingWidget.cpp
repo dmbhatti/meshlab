@@ -24,7 +24,7 @@
 #include <QList>
 #include <QListWidgetItem>
 #include <QListWidget>
-#include <PhotoTexturingWidget.h>
+#include "PhotoTexturingWidget.h"
 #include <meshlab/mainwindow.h>
 #include <wrap/gl/trimesh.h>
 #include <meshlab/stdpardialog.h>

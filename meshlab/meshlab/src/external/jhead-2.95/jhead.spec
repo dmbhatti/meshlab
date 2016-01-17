@@ -74,7 +74,7 @@ rm -rf %{buildroot}
 %changelog
 
 * Fri Dec 2 2011 - 2.92
-- Hanle UTF8 in IPTC
+- Handle UTF8 in IPTC
 - Fix error in help
 
 * Fri Feb 5 2010 - 2.90

@@ -40,8 +40,8 @@ add samplefilter
 #include <stdlib.h>
 #include <time.h>
 
-#include <meshlab/meshmodel.h>
-#include <meshlab/interfaces.h>
+#include <common/meshmodel.h>
+#include <common/interfaces.h>
 
 #include <vcg/complex/algorithms/clean.h>
 #include <vcg/complex/algorithms/update/normal.h>

@@ -25,7 +25,7 @@
 #ifndef EditPhotoTexFactoryPLUGIN_H
 #define EditPhotoTexFactoryPLUGIN_H
 
-#include <meshlab/interfaces.h>
+#include <common/interfaces.h>
 #include <QObject>
 #include <QList>
 

@@ -26,8 +26,8 @@
 
 #include <QObject>
 
-#include <meshlab/meshmodel.h>
-#include <meshlab/interfaces.h>
+#include <common/meshmodel.h>
+#include <common/interfaces.h>
 
 class RangeMapPlugin : public QObject, public MeshFilterInterface
 {

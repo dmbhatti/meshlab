@@ -24,6 +24,7 @@
 #define RGBT_H
 
 #include <QObject>
+#include <QDockWidget>
 #include <common/interfaces.h>
 
 #include "widgetRgbT.h"

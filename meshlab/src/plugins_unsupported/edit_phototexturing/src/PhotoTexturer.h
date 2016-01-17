@@ -26,7 +26,7 @@
 #include<QObject>
 #include <QList>
 #include <vector>
-#include <meshlab/meshmodel.h>
+#include <common/meshmodel.h>
 #include <src/Camera.h>
 #include <src/TextureFilter.h>
 #include <src/QuadTree/QuadTreeNode.h>

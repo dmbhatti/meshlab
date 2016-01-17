@@ -56,7 +56,7 @@ code restyling
 #include "parser/RmPass.h"
 #include "ui_rmShadowDialog.h"
 #include "glstateholder.h"
-#include <meshlab/meshmodel.h>
+#include <common/meshmodel.h>
 
 class RmShaderDialog : public QDialog
 {

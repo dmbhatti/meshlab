@@ -35,9 +35,9 @@ $Log: editfit.h,v $
 #include <QImageWriter>
 #include <QByteArray>
 
-#include <meshlab/meshmodel.h>
-#include <meshlab/interfaces.h>
-#include <meshlab/glarea.h>
+#include <common/meshmodel.h>
+#include <common/interfaces.h>
+//#include <common/glarea.h>
 #include <QGLFramebufferObject>
 
 #include <vcg/space/point2.h>

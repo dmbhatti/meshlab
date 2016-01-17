@@ -188,7 +188,7 @@ void InteractiveEdit::DrawXORCircle(GLArea * gla, bool doubleDraw)
 	glMatrixMode(GL_PROJECTION);
 	glPushMatrix();
 	glLoadIdentity();
-	glOrtho(0,gla->curSiz.width(),gla->curSiz.height(),0,-1,1);
+	glOrtho(0,gla->sizeHint().width(),gla->sizeHint().height(),0,-1,1);
 	glMatrixMode(GL_MODELVIEW);
 	glPushMatrix();
 	glLoadIdentity();
@@ -200,7 +200,7 @@ void InteractiveEdit::DrawXORCircle(GLArea * gla, bool doubleDraw)
 	glLogicOp(GL_XOR);
 	glColor3f(1,1,1);
 
-	QPoint mid= QPoint(cur.x(),/*gla->curSiz.height()-*/cur.y());
+	QPoint mid= QPoint(cur.x(),/*gla->sizeHint().height()-*/cur.y());
 	if(doubleDraw)
 	{
 		glBegin(GL_LINE_LOOP);
@@ -253,8 +253,8 @@ void InteractiveEdit::getInternFaces(MeshModel & m,list<int> *actual,vector<Vert
 
 	actual->clear();
 
-	QPointF mid=QPointF(cur.x(),gla->curSiz.height()- cur.y());
-	QPointF mid_prev=QPointF(prev.x(),gla->curSiz.height()- prev.y());
+	QPointF mid=QPointF(cur.x(),gla->sizeHint().height()- cur.y());
+	QPointF mid_prev=QPointF(prev.x(),gla->sizeHint().height()- prev.y());
 
 	QPointF p[3],z[3];
 	double tx,ty,tz;

@@ -194,7 +194,7 @@ bool RgbTPlugin::StartEdit(MeshModel &m, GLArea * parent)
 				ie->start=event->pos();
 				ie->cur=ie->start;
 				ie->prev=ie->start;
-				ie->inverse_y=gla->curSiz.height()-cur.y();
+				ie->inverse_y=gla->sizeHint().height()-cur.y();
 				ie->curr_mouse=event->button();
 				ie->current_gla=gla;
 
@@ -245,7 +245,7 @@ bool RgbTPlugin::StartEdit(MeshModel &m, GLArea * parent)
 			glMatrixMode(GL_PROJECTION);
 			glPushMatrix();
 			glLoadIdentity();
-			glOrtho(0,gla->curSiz.width(),gla->curSiz.height(),0,-1,1);
+			glOrtho(0,gla->sizeHint().width(),gla->sizeHint().height(),0,-1,1);
 			glMatrixMode(GL_MODELVIEW);
 			glPushMatrix();
 			glLoadIdentity();
@@ -287,7 +287,7 @@ bool RgbTPlugin::StartEdit(MeshModel &m, GLArea * parent)
 		{
 			if (!widgetRgbT) 
 				return; // it is possible that the widget is not altready build when decorate il called
-			QPoint mid=QPoint(cur.x(),gla->curSiz.height()-cur.y());
+			QPoint mid=QPoint(cur.x(),gla->sizeHint().height()-cur.y());
 			CMeshO::FaceIterator it;
 
 			switch (widgetRgbT->tool)
@@ -335,7 +335,7 @@ bool RgbTPlugin::StartEdit(MeshModel &m, GLArea * parent)
 				case TOOL_ERASER:
 
 				ie->updateMatrixes();
-				QPoint mid=QPoint(cur.x(),gla->curSiz.height()- cur.y());
+				QPoint mid=QPoint(cur.x(),gla->sizeHint().height()- cur.y());
 				if (ie->first)
 				{
 					ie->first=false;
@@ -343,8 +343,8 @@ bool RgbTPlugin::StartEdit(MeshModel &m, GLArea * parent)
 					{
 						free(ie->pixels);
 					}
-					ie->pixels=(GLfloat *)malloc(sizeof(GLfloat)*gla->curSiz.width()*gla->curSiz.height());
-					glReadPixels(0,0,gla->curSiz.width(),gla->curSiz.height(),GL_DEPTH_COMPONENT,GL_FLOAT,ie->pixels);
+					ie->pixels=(GLfloat *)malloc(sizeof(GLfloat)*gla->sizeHint().width()*gla->sizeHint().height());
+					glReadPixels(0,0,gla->sizeHint().width(),gla->sizeHint().height(),GL_DEPTH_COMPONENT,GL_FLOAT,ie->pixels);
 				}
 				if(ie->isDragging)
 				{

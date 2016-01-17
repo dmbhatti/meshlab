@@ -30,7 +30,7 @@
 
 //#include <src/Camera.h>
 #include <src/CameraCalibrationData.h>
-#include <meshlab/meshmodel.h>
+#include <common/meshmodel.h>
 class CameraCalibration{
 public:
 

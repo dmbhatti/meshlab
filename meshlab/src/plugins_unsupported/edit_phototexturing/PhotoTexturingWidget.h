@@ -25,11 +25,11 @@
 #define PHOTOTEXTURINGWIDGET_H_
 
 #include <QDockWidget>
-#include <meshlab/meshmodel.h>
-#include <meshlab/interfaces.h>
+#include <common/meshmodel.h>
+#include <common/interfaces.h>
 #include <wrap/gl/trimesh.h>
 #include <meshlab/meshlabeditdockwidget.h>
-#include <src/PhotoTexturer.h>
+#include "src/PhotoTexturer.h"
 #include "ui_photoTexturingWidget.h"
 
 class PhotoTexturingWidget: public MeshlabEditDockWidget, Ui::photoTexturingWidget{

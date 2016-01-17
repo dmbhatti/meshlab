@@ -11,18 +11,18 @@ SOURCES += 	edit_phototex_factory.cpp \
 			src/CameraCalibration.cpp \
 			src/TextureMerger.cpp \
 			src/Tsai/TsaiCameraCalibration.cpp \
-			../../external/TSAI30B3/matrix/matrix.c \
-			../../external/TSAI30B3//minpack/lmdif.c \ 
-			../../external/TSAI30B3//minpack/dpmpar.c \
-			../../external/TSAI30B3//minpack/enorm.c \
-			../../external/TSAI30B3//minpack/fdjac2.c \
-			../../external/TSAI30B3//minpack/lmpar.c \
-			../../external/TSAI30B3//minpack/qrfac.c \
-			../../external/TSAI30B3//minpack/qrsolv.c \
-			../../external/TSAI30B3//cal_tran.c \
-			../../external/TSAI30B3//cal_util.c \
-			../../external/TSAI30B3//cal_main.c \
-			../../external/TSAI30B3//cal_eval.c \ 
+			../../external/tsai-30b3/matrix/matrix.c \
+			../../external/tsai-30b3//minpack/lmdif.c \ 
+			../../external/tsai-30b3//minpack/dpmpar.c \
+			../../external/tsai-30b3//minpack/enorm.c \
+			../../external/tsai-30b3//minpack/fdjac2.c \
+			../../external/tsai-30b3//minpack/lmpar.c \
+			../../external/tsai-30b3//minpack/qrfac.c \
+			../../external/tsai-30b3//minpack/qrsolv.c \
+			../../external/tsai-30b3//cal_tran.c \
+			../../external/tsai-30b3//cal_util.c \
+			../../external/tsai-30b3//cal_main.c \
+			../../external/tsai-30b3//cal_eval.c \ 
 			src/SmartBlendTextureMerger.cpp \
 			src/WinnerTakesAllTextureMerger.cpp \
 			src/QuadTree/QuadTreeNode.cpp \
@@ -36,9 +36,9 @@ HEADERS += 	edit_phototex_factory.h \
 			src/Camera.h \
 			src/CameraCalibration.h\
 			PhotoTexturingWidget.h \
-			../../external/TSAI30B3/matrix/matrix.h \ 
+			../../external/tsai-30b3/matrix/matrix.h \ 
 			src/PhotoTexturer.h \
-			../../external/TSAI30B3/cal_main.h \
+			../../external/tsai-30b3/cal_main.h \
 			src/SmartBlendTextureMerger.h \
 			src/WinnerTakesAllTextureMerger.h \
 			src/QuadTree/QuadTreeNode.h \

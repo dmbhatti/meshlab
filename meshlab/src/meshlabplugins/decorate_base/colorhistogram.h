@@ -40,7 +40,7 @@ public:
 
   //! Reset histogram data.
   void Clear() {
-    this->::Clear();
+    (reinterpret_cast<Histogram<ScalarType>*>(this))->Clear();
     CV.clear();
   }
   /*

@@ -371,7 +371,8 @@ bool EpochModel::BuildMesh(CMeshO &m, int subsampleFactor, int minCount, float m
     
     (*vi).P().Import(out);
     QRgb c = TextureImg.pixel(int(in[0]), int(in[1]));
-    (*vi).C().SetRGB(qRed(c),qGreen(c),qBlue(c));
+    //(*vi).C().SetRGB(qRed(c),qGreen(c),qBlue(c));
+    (*vi).C() = vcg::Color4(qRed(c),qGreen(c),qBlue(c),1);
     //(*vi).Q()=chi.Val(in[0], in[1]);
     //(*vi).Q()=flisubQ.Val(in[0]/subsample, in[1]/subsample);
     if(FeatureMask.Val(int(in[0]/subsampleFactor), int(in[1]/subsampleFactor))<200) (*vi).Q()=0; 
