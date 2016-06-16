@@ -1,4 +1,4 @@
-﻿MeshLab
+MeshLab
 =======
 
 HOW TO COMPILE: (tested 6/16/16)
