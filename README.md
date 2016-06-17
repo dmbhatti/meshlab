@@ -13,5 +13,9 @@ qmake -recursive meshlab_full.pro
 make  
   
 run "meshlab" executable file in MESHLAB_DIRECTORY/src/distrib  
+
+On a fresh copy of Ubuntu, you might need to install some packages before compiling:  
   
-for extended compilation procedure on Linux, look at: CompilationDetais/COMPILATION.md  
+sudo apt-get install git libgmp3-dev libqt4-dev g++  
+  
+For extended compilation procedure on Linux, look at: CompilationDetais/COMPILATION.md  
