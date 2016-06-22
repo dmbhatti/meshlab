@@ -19,3 +19,5 @@ On a fresh copy of Ubuntu, you might need to install some packages before compil
 sudo apt-get install libgmp3-dev libqt4-dev g++  
   
 For extended compilation procedure on Linux, look at: CompilationDetais/COMPILATION.md  
+
+Also checkout https://github.com/starseeker/meshlab for a CMake based compilation method. Still in the works as of 6/22/16.
